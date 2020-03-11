@@ -13,7 +13,7 @@ This "semagram base” [1] is the result of a systematic analysis, unification a
 This project is the first result of the collaboration between:
 
     Dr. Luigi Di Caro (University of Turin) and
-    Prof. Roberto Navigli (University Sapienza of Rome). 
+    <a href="http://wwwusers.di.uniroma1.it/~navigli/">Prof. Roberto Navigli</a> (University Sapienza of Rome). 
 
 Two PhD students contributed to the annotation and the semi-automatic development of the released resource:
 
@@ -22,7 +22,7 @@ Two PhD students contributed to the annotation and the semi-automatic developmen
 
 
 # License
-The semagram base is released under the CC-BY license.
+The semagram base is released under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 license</a>.
 
 # References
 [1] Leone, V., Siragusa, G., Di Caro, L., Navigli, R. (2020). Building Semantic Grams of Human Knowledge. In Proc. of LREC (to appear).
