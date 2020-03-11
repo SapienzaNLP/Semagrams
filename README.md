@@ -12,13 +12,13 @@ This "semagram base” [1] is the result of a systematic analysis, unification a
 # Authors
 This project is the first result of the collaboration between:
 
-    Dr. Luigi Di Caro (University of Turin) and
-    <a href="http://wwwusers.di.uniroma1.it/~navigli/">Prof. Roberto Navigli</a> (University Sapienza of Rome). 
+- <a href="https://luigidicaro.me/">Dr. Luigi Di Caro</a> (University of Turin) and
+- <a href="http://wwwusers.di.uniroma1.it/~navigli/">Prof. Roberto Navigli</a> (University Sapienza of Rome). 
 
 Two PhD students contributed to the annotation and the semi-automatic development of the released resource:
 
-    Valentina Leone (PhD student at the University of Turin)
-    Giovanni Siragusa (PhD student at the University of Turin)
+- Valentina Leone (PhD student at the University of Turin)
+- Giovanni Siragusa (PhD student at the University of Turin)
 
 
 # License
