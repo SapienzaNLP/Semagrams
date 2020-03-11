@@ -26,8 +26,11 @@ The semagram base is released under the CC-BY license.
 
 # References
 [1] Leone, V., Siragusa, G., Di Caro, L., Navigli, R. (2020). Building Semantic Grams of Human Knowledge. In Proc. of LREC (to appear).
+
 [2] Moerdijk, F., Tiberius, C., and Niestadt, J. (2008). Accessing
 the anw dictionary. In Proc. of the workshop on Cognitive
 Aspects of the Lexicon, pages 18–24.
+
 [3] Silberer, C., Ferrari, V., and Lapata, M. (2013). Models of semantic representation with visual attributes. In ACL(1), pages 572–582.
+
 [4] Devereux, B. J., Tyler, L. K., Geertzen, J., and Randall, B. (2014). The cslb concept property norms. Behavior research methods, 46(4):1119–1127.
