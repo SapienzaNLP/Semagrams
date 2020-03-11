@@ -4,10 +4,9 @@ A *semagram* is a flexible structure for encoding the semantics of a given conce
 
 This "semagram base” [1] is the result of a systematic analysis, unification and extension of semantic relations (or slots) derived from different resources:
 
-    ANW dictionary [2]
-    Visual Attributes [3]
-    Property Norms [4]
-
+- ANW dictionary [2]
+- Visual Attributes [3]
+- Property Norms [4]
 
 # Authors
 This project is the first result of the collaboration between:
